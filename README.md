@@ -1,4 +1,4 @@
-# game-model-replacer
+# Deadlock-model-replacer
 
 一个用于制作和修复游戏角色模型替换 Mod 的 Codex Skill。它指导 Codex 完成资源发现、基线锁定、骨架与权重适配、材质、实时布料、编译、封包和分层验收，并附带两个只读审计脚本。
 
