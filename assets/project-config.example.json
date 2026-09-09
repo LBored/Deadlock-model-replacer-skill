@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "game": {"name": null, "build": null, "engine": null, "install_root": null, "archive": null, "loader": null},
+  "target": {"display_name": null, "internal_id": null, "model_paths": [], "preserve_paths": [], "required_features": []},
+  "source": {"model": null, "author": null, "source_url": null, "usage_notes": null, "sha256": null},
+  "workspace": {"root": null, "temp": null, "cache": null, "config": null},
+  "tools": {"blender": null, "importer": null, "exporter": null, "compiler": null, "packer": null, "independent_reader": null},
+  "baseline": {"package": null, "sha256": null, "source_checkpoint": null},
+  "conversion": {"source_units": null, "target_units": null, "axis_mapping": null, "scale_owner": null, "max_skin_influences": null},
+  "scope": {"allowed_additions": [], "allowed_changes": [], "allowed_removals": []},
+  "gates": {"basic_game_load": "unknown", "runtime_cloth": "unknown", "death_respawn": "unknown", "final_game_acceptance": "unknown"}
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏角色模型替换 Mod"
+  short_description: "制作角色模型替换 Mod，保留动画、物理与道具，并验证导出和打包结果"
+  default_prompt: "使用 $game-model-replacer，将我提供的模型制作成目标游戏角色的替换 Mod，先检查游戏版本、工具及资源兼容性，再完成绑定、材质、物理和打包验收。"
