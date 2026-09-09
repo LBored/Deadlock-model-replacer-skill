@@ -2,12 +2,6 @@
 
 一个用于制作和修复游戏角色模型替换 Mod 的 Codex Skill。它指导 Codex 完成资源发现、基线锁定、骨架与权重适配、材质、实时布料、编译、封包和分层验收，并附带两个只读审计脚本。
 
-## 发布到 GitHub
-
-本目录本身就是仓库根目录：`SKILL.md`、`README.md`、`LICENSE`、`agents/`、`assets/`、`references/` 和 `scripts/` 应位于 GitHub 仓库顶层。不要在仓库外再套一层说明文件，也不要提交审计报告、游戏资源、模型、贴图、音频、工具二进制、缓存或本机路径配置。
-
-GitHub 网页不会把上传的 ZIP 自动展开成仓库内容。创建仓库后，应上传本目录内的文件和子目录；ZIP 适合作为 Release 附件或传输包。
-
 ## 安装
 
 将整个 `game-model-replacer` 目录复制到 Codex 的技能目录。已设置 `CODEX_HOME` 时放入 `$CODEX_HOME/skills/`；否则使用当前 Codex 环境配置的个人技能目录。保留目录结构，不要只复制 `SKILL.md`。
